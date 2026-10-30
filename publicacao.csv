@@ -1,0 +1,660 @@
+id,decisao,tema_central_id,extras_ids,confianca,motivo
+Q0001,revisar,5524,5562,0.7,Conflito de competência temática entre Tribunal do Júri e Recursos
+Q0002,fora,,,0.95,Criminologia Crítica não contemplada
+Q0003,revisar,5561,5568;5560,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.00)"
+Q0004,revisar,5480,5484,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.04)"
+Q0005,revisar,5537,5576;5208,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0006,revisar,5160,5571;5198,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0007,revisar,5471,5470;5064,0.39,"Confiança moderada para publicação direta (sim: 0.39, margem: 0.04)"
+Q0008,revisar,6719,6718;6727,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.00)"
+Q0009,revisar,5165,5159;5494,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.04)"
+Q0010,revisar,6717,4688,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.04)"
+Q0011,revisar,6723,5063;5480,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.03)"
+Q0012,revisar,5561,,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.11)"
+Q0013,revisar,5477,5498;5503,0.37,"Confiança moderada para publicação direta (sim: 0.37, margem: 0.02)"
+Q0014,revisar,5477,5479,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.06)"
+Q0015,revisar,5500,5498;5499,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.02)"
+Q0016,fora,,,0.9,Disciplina fora do escopo penal: direito constitucional
+Q0017,fora,,,0.95,Procedimento de crimes de funcionários públicos não contemplado
+Q0018,revisar,5540,,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.12)"
+Q0019,publicar,5475,,0.96,
+Q0020,revisar,5571,5199;5548,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.06)"
+Q0021,revisar,5503,,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.15)"
+Q0022,publicar,5092,5095,0.96,
+Q0023,publicar,5524,5524,0.98,
+Q0024,revisar,4388,5578;5480,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0025,revisar,5093,5064;5065,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0026,revisar,4704,5131;5482,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.01)"
+Q0027,revisar,5535,5479;5477,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0028,revisar,5487,5488;5530,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.04)"
+Q0029,revisar,6716,4684,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.09)"
+Q0030,publicar,5477,5130;5131,0.98,
+Q0031,revisar,4385,4388;4386,0.35,"Confiança moderada para publicação direta (sim: 0.35, margem: 0.01)"
+Q0032,revisar,5500,5498;5504,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.04)"
+Q0033,revisar,5519,5198;5517,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.04)"
+Q0034,revisar,5477,5500;5504,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.05)"
+Q0035,revisar,5499,5477;5500,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0036,revisar,5501,6724;4704,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.00)"
+Q0037,publicar,5132,5081;5128,0.96,
+Q0038,revisar,5503,5500;5466,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0039,fora,,,0.95,Tema inativo na taxonomia (Direito Penal Econômico)
+Q0040,revisar,5524,5562,0.7,Conflito de competência temática entre Tribunal do Júri e Recursos
+Q0041,publicar,5184,,0.96,
+Q0042,revisar,5192,5221;5225,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0043,fora,,,0.9,Fixação da pena sem tema específico ativo
+Q0044,revisar,5548,5498;5198,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0045,publicar,5091,5087,0.96,
+Q0046,revisar,5580,5582;5581,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.02)"
+Q0047,revisar,5470,5466;5471,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.04)"
+Q0048,revisar,5209,6727;6726,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0049,publicar,5152,5149,0.98,
+Q0050,revisar,5557,5565;5548,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.05)"
+Q0051,revisar,5578,5487;5466,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0052,revisar,6727,6726,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.00)"
+Q0053,revisar,5540,5539;5569,0.48,"Confiança moderada para publicação direta (sim: 0.48, margem: 0.01)"
+Q0054,revisar,5142,5106;5165,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.01)"
+Q0055,revisar,5550,5535;5487,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0056,revisar,5069,5066;5067,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.03)"
+Q0057,publicar,5176,5179;5175,0.96,
+Q0058,revisar,4389,4365;5198,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0059,revisar,4384,,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.09)"
+Q0060,revisar,5087,5094;5101,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.02)"
+Q0061,revisar,4703,6727;6726,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.06)"
+Q0062,revisar,5198,5466;5548,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.02)"
+Q0063,revisar,4704,5498;5500,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0064,revisar,5198,5537;5185,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.03)"
+Q0065,revisar,5192,5161;5198,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.04)"
+Q0066,publicar,4371,4373;4372,0.98,
+Q0067,publicar,5091,5093;5095,0.96,
+Q0068,revisar,5103,5117,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.06)"
+Q0069,revisar,5508,5571;5173,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.05)"
+Q0070,publicar,4703,5571;5548,0.96,
+Q0071,revisar,5229,5231;5230,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.00)"
+Q0072,revisar,5498,5503;5502,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0073,revisar,5209,5084;5101,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.02)"
+Q0074,revisar,6727,6726;5201,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.00)"
+Q0075,revisar,5185,6727;6726,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.03)"
+Q0076,publicar,4371,4373;4372,0.98,
+Q0077,revisar,5173,5571;5198,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.06)"
+Q0078,revisar,5198,5063;5565,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0079,revisar,5581,5580;5582,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.01)"
+Q0080,publicar,4370,4368,0.96,
+Q0081,revisar,4371,4373;4372,0.47,"Confiança moderada para publicação direta (sim: 0.47, margem: 0.03)"
+Q0082,revisar,5091,,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.08)"
+Q0083,revisar,5150,5222;5067,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.06)"
+Q0084,revisar,4704,,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.12)"
+Q0085,revisar,5548,5069;5198,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.01)"
+Q0086,revisar,5092,5094;5069,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.02)"
+Q0087,fora,,,0.9,Execução penal jurisprudencial sem tema específico
+Q0088,publicar,4389,4390,0.98,
+Q0089,revisar,5063,5466;5565,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0090,revisar,5530,5198;5571,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.03)"
+Q0091,revisar,6727,6726;5208,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.00)"
+Q0092,revisar,5488,5489;5487,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0093,revisar,5142,5222,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.05)"
+Q0094,publicar,4371,4388;4386,0.96,
+Q0095,revisar,5197,5198;5477,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.05)"
+Q0096,revisar,5524,6732;5483,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.00)"
+Q0097,publicar,4708,4708;6723,0.96,
+Q0098,revisar,5548,5550;5063,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.04)"
+Q0099,revisar,5077,,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.05)"
+Q0100,publicar,5103,,0.98,
+Q0101,publicar,4704,6724,0.98,
+Q0102,revisar,5574,5575;5184,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.00)"
+Q0103,revisar,5478,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.11)"
+Q0104,revisar,5500,5504;5502,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.04)"
+Q0105,revisar,4385,4388;4386,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.01)"
+Q0106,revisar,5168,5164;5166,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0107,revisar,5119,5192;5116,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.01)"
+Q0108,revisar,5561,5560,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.09)"
+Q0109,revisar,5206,5070,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.05)"
+Q0110,revisar,5103,5480;5482,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.02)"
+Q0111,revisar,4384,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.12)"
+Q0112,revisar,5492,6734;5198,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0113,revisar,5502,5198;5500,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0114,revisar,5198,5565;5508,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0115,publicar,4385,4385;4386,0.98,
+Q0116,revisar,4708,6728;5201,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0117,publicar,4384,,0.96,
+Q0118,revisar,5517,5519;5518,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.02)"
+Q0119,revisar,5508,5505;5507,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.00)"
+Q0120,revisar,5582,5580;5581,0.37,"Confiança moderada para publicação direta (sim: 0.37, margem: 0.01)"
+Q0121,revisar,5466,5065;5063,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.04)"
+Q0122,publicar,4703,6726;5198,0.96,
+Q0123,revisar,4368,4369;4370,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.02)"
+Q0124,revisar,4384,,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.13)"
+Q0125,revisar,6734,6727;6726,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.00)"
+Q0126,revisar,5198,5116;5117,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0127,publicar,4708,5530;5535,0.96,
+Q0128,revisar,5184,4369;5064,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.02)"
+Q0129,revisar,5550,5548;5535,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0130,publicar,5205,,0.96,
+Q0131,revisar,5073,5074;5071,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.03)"
+Q0132,revisar,5487,5550;5530,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.05)"
+Q0133,revisar,5529,5526;5525,0.4,"Confiança moderada para publicação direta (sim: 0.40, margem: 0.03)"
+Q0134,revisar,5206,5089;5140,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0135,revisar,5219,5198;5218,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0136,publicar,4704,4704,0.96,
+Q0137,fora,,,0.9,Disciplina fora do escopo penal: direito civil legislacao especial
+Q0138,revisar,5205,5199;5201,0.35,"Confiança moderada para publicação direta (sim: 0.35, margem: 0.03)"
+Q0139,publicar,5212,5211;5217,0.96,
+Q0140,revisar,5550,5070;5550,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0141,publicar,4385,4388;4386,0.98,
+Q0142,revisar,5571,5113;5198,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0143,revisar,5508,5505;5506,0.47,"Confiança moderada para publicação direta (sim: 0.47, margem: 0.02)"
+Q0144,revisar,5524,5562,0.7,Conflito de competência temática entre Tribunal do Júri e Recursos
+Q0145,revisar,6723,4702;5084,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.05)"
+Q0146,revisar,4708,6728;5548,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.01)"
+Q0147,publicar,5502,5498,0.96,
+Q0148,publicar,5203,5202;5199,0.96,
+Q0149,revisar,5545,5500;5498,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.05)"
+Q0150,revisar,6728,4708;5571,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0151,revisar,5517,5522,0.39,"Confiança moderada para publicação direta (sim: 0.39, margem: 0.03)"
+Q0152,revisar,5198,5065,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.08)"
+Q0153,revisar,5176,5179;5221,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0154,revisar,5135,4704;4703,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0155,revisar,5184,,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.06)"
+Q0156,revisar,5207,5199,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.07)"
+Q0157,revisar,5520,5517;5500,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.10)"
+Q0158,revisar,6727,6726;5198,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.00)"
+Q0159,revisar,5177,5150,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.04)"
+Q0160,revisar,6727,6726;5205,0.43,"Confiança moderada para publicação direta (sim: 0.43, margem: 0.00)"
+Q0161,revisar,5518,5517,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.04)"
+Q0162,revisar,5148,4372;5172,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.03)"
+Q0163,revisar,5183,5066;5069,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.03)"
+Q0164,revisar,6727,6726;5210,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.00)"
+Q0165,revisar,5198,5557;4686,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0166,revisar,4703,6727;6726,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.02)"
+Q0167,revisar,5524,5480;5466,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0168,revisar,5225,5508;5198,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.02)"
+Q0169,revisar,5492,,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.12)"
+Q0170,revisar,4708,6728;5189,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.04)"
+Q0171,revisar,5502,5201;5557,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0172,publicar,5185,5189;5185,0.98,
+Q0173,revisar,5205,5537;4703,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.04)"
+Q0174,revisar,5198,5470;5224,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.04)"
+Q0175,publicar,5087,5092;5093,0.96,
+Q0176,revisar,5081,5550;5198,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0177,revisar,5548,5547;5198,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0178,revisar,5085,4697;5559,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.04)"
+Q0179,revisar,4368,4369;4370,0.38,"Confiança moderada para publicação direta (sim: 0.38, margem: 0.01)"
+Q0180,revisar,5554,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.10)"
+Q0181,revisar,5571,5069;5066,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0182,revisar,5139,5548;5198,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.06)"
+Q0183,revisar,5561,5185;5186,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0184,revisar,5518,,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.09)"
+Q0185,revisar,5576,4703;5561,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.02)"
+Q0186,publicar,5202,,0.96,
+Q0187,revisar,5565,5571;5209,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.02)"
+Q0188,revisar,5233,5217;5227,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.00)"
+Q0189,revisar,5065,5083;5508,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.07)"
+Q0190,revisar,5539,5198;5207,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.00)"
+Q0191,revisar,5560,5561;5568,0.4,"Confiança moderada para publicação direta (sim: 0.40, margem: 0.01)"
+Q0192,revisar,5091,5087;5081,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.07)"
+Q0193,revisar,5557,5502;5498,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.02)"
+Q0194,revisar,5221,5220;5225,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.06)"
+Q0195,publicar,4371,4371;4372,0.98,
+Q0196,publicar,4385,4388;4386,0.98,
+Q0197,revisar,5500,5498;5499,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.04)"
+Q0198,revisar,5073,5071,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.06)"
+Q0199,revisar,5230,5221;5220,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.02)"
+Q0200,revisar,5062,5563;5198,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0201,publicar,5103,,0.98,
+Q0202,revisar,5224,5221;5548,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0203,publicar,6723,4702,0.96,
+Q0204,revisar,5508,5505;5507,0.46,"Confiança moderada para publicação direta (sim: 0.46, margem: 0.03)"
+Q0205,revisar,5567,5574,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0206,revisar,5561,,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.11)"
+Q0207,revisar,5576,4703;5185,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0208,revisar,5198,5548;5069,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0209,revisar,5500,5503;5504,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.03)"
+Q0210,revisar,5183,5548;5067,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0211,revisar,5487,5063,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.06)"
+Q0212,revisar,5487,5555;5198,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.06)"
+Q0213,revisar,5530,5535;6734,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.05)"
+Q0214,publicar,5494,5490,0.96,
+Q0215,revisar,5576,5201;5481,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0216,revisar,5065,5198;5063,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.02)"
+Q0217,publicar,4384,,0.96,
+Q0218,fora,,,0.9,Disciplina fora do escopo penal: direito constitucional
+Q0219,publicar,5071,5072;5075,0.96,
+Q0220,publicar,5501,5498;5500,0.98,
+Q0221,revisar,5209,5199;5205,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.00)"
+Q0222,publicar,4376,5172,0.98,
+Q0223,publicar,5084,,0.96,
+Q0224,publicar,5207,5199,0.96,
+Q0225,revisar,5571,5570;5063,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.02)"
+Q0226,revisar,5544,5466;5063,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.07)"
+Q0227,publicar,5103,,0.98,
+Q0228,revisar,5477,5476;5477,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0229,revisar,5517,5520;5519,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0230,revisar,5214,5184;5211,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.05)"
+Q0231,revisar,5224,,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.14)"
+Q0232,revisar,5082,5079,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.02)"
+Q0233,revisar,5178,5175;5179,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.04)"
+Q0234,revisar,4380,4381;4382,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.03)"
+Q0235,revisar,5561,6733;6732,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.00)"
+Q0236,revisar,5530,5498;5198,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0237,publicar,5175,5175;5179,0.96,
+Q0238,revisar,5477,5468;6738,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.02)"
+Q0239,revisar,5207,5198;5214,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0240,revisar,5198,5500;5498,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0241,publicar,5224,5218;5227,0.96,
+Q0242,revisar,5571,4687;5570,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.03)"
+Q0243,publicar,5178,5175;5179,0.96,
+Q0244,publicar,5091,5093;5092,0.96,
+Q0245,revisar,5189,5185;5188,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.03)"
+Q0246,publicar,5524,5524;5527,0.98,
+Q0247,publicar,5502,,0.96,
+Q0248,revisar,5087,5093;5092,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.03)"
+Q0249,revisar,6732,6733;5466,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.00)"
+Q0250,revisar,5202,5576;6727,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.07)"
+Q0251,revisar,5198,5185;5193,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.04)"
+Q0252,fora,,,0.9,Questão mista fora dos temas ativos da taxonomia
+Q0253,revisar,4371,4373;4371,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.03)"
+Q0254,revisar,5487,4704;5488,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0255,revisar,5198,5548;5487,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0256,publicar,5218,5192;5220,0.96,
+Q0257,revisar,5227,5198;5224,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0258,publicar,5545,,0.96,
+Q0259,revisar,5229,5231;5230,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.01)"
+Q0260,revisar,4376,4368;5155,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.02)"
+Q0261,revisar,5469,5470;5471,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.00)"
+Q0262,revisar,4703,6734,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.04)"
+Q0263,revisar,5487,5548;5477,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0264,publicar,5103,,0.96,
+Q0265,revisar,5070,5067;5068,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.03)"
+Q0266,revisar,5529,5526;5525,0.36,"Confiança moderada para publicação direta (sim: 0.36, margem: 0.00)"
+Q0267,revisar,5518,,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.08)"
+Q0268,revisar,5116,5120;5123,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.00)"
+Q0269,revisar,5173,5170;5571,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.03)"
+Q0270,publicar,5091,5092,0.96,
+Q0271,revisar,5562,5512;5560,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.02)"
+Q0272,publicar,4703,4703,0.96,
+Q0273,revisar,5116,,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.13)"
+Q0274,revisar,5160,6720;6721,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0275,publicar,4701,5487,0.98,
+Q0276,revisar,5545,5543;5554,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.08)"
+Q0277,fora,,,0.9,Disciplina fora do escopo penal: direito civil legislacao especial
+Q0278,revisar,5207,5542,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.05)"
+Q0279,revisar,5185,5188;5175,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.04)"
+Q0280,revisar,5487,5466;5123,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.05)"
+Q0281,revisar,5582,5580;5581,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.00)"
+Q0282,publicar,4704,4697;5198,0.98,
+Q0283,revisar,5575,5565;5496,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0284,revisar,5214,5224;5211,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.04)"
+Q0285,publicar,4376,,0.98,
+Q0286,revisar,5069,5066;5068,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.00)"
+Q0287,publicar,5230,5214,0.96,
+Q0288,revisar,5068,5066;5070,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.02)"
+Q0289,publicar,4704,6724,0.98,
+Q0290,revisar,5487,5535;5198,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0291,fora,,,0.95,Procedimento e prazos de inquérito em lei especial não contemplados
+Q0292,revisar,4375,4374;4376,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.01)"
+Q0293,publicar,5185,5188;5185,0.98,
+Q0294,revisar,5214,5211;5217,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.01)"
+Q0295,revisar,5488,5489;5487,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.00)"
+Q0296,revisar,5065,5469;5468,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.06)"
+Q0297,revisar,4689,5198;5565,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.04)"
+Q0298,revisar,5148,5147,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.01)"
+Q0299,revisar,4371,4370;4388,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.02)"
+Q0300,publicar,5084,,0.96,
+Q0301,revisar,5197,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.13)"
+Q0302,publicar,5211,5224;5211,0.96,
+Q0303,fora,,,0.95,Aplicação da lei penal (art. 1º a 12 CP) sem tema específico ativo
+Q0304,revisar,5540,5539;5480,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.07)"
+Q0305,revisar,5064,5466;5063,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.00)"
+Q0306,revisar,5557,5146;5144,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0307,revisar,5518,5502;5548,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.05)"
+Q0308,publicar,5501,5501;5189,0.96,
+Q0309,revisar,5206,5205;5508,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0310,revisar,5508,5505;5506,0.37,"Confiança moderada para publicação direta (sim: 0.37, margem: 0.05)"
+Q0311,revisar,5487,5064,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.05)"
+Q0312,publicar,4384,,0.96,
+Q0313,publicar,5209,5209;6727,0.96,
+Q0314,publicar,5477,5479,0.98,
+Q0315,revisar,5209,5530;5535,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.04)"
+Q0316,revisar,6727,6726;5198,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.00)"
+Q0317,revisar,5198,5070,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.08)"
+Q0318,revisar,5178,5175;5179,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.01)"
+Q0319,revisar,5223,5073;5071,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0320,publicar,5550,5198;6728,0.98,
+Q0321,revisar,4708,5073;5072,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.02)"
+Q0322,publicar,5561,,0.96,
+Q0323,revisar,5530,5535;5550,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.04)"
+Q0324,revisar,6727,6726;5537,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.00)"
+Q0325,revisar,4704,5198;5063,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.04)"
+Q0326,revisar,5477,4708,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.06)"
+Q0327,revisar,5203,5199;5548,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.05)"
+Q0328,revisar,4374,4375;4382,0.37,"Confiança moderada para publicação direta (sim: 0.37, margem: 0.06)"
+Q0329,revisar,5548,5221;5550,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.03)"
+Q0330,publicar,5501,5498;5500,0.98,
+Q0331,publicar,5477,,0.98,
+Q0332,revisar,5477,,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.12)"
+Q0333,revisar,4371,5175;5179,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.03)"
+Q0334,revisar,5232,5219;5228,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.04)"
+Q0335,revisar,5198,5512;5560,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.04)"
+Q0336,revisar,5159,5165;5160,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0337,revisar,6716,5471;5470,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.05)"
+Q0338,revisar,5545,5582;5580,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.05)"
+Q0339,revisar,5578,,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.12)"
+Q0340,revisar,5076,5074;5071,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.03)"
+Q0341,revisar,5160,5164;5159,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0342,revisar,5545,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.09)"
+Q0343,revisar,5472,5198;5065,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.05)"
+Q0344,revisar,5471,6717;5064,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.06)"
+Q0345,publicar,5103,5102,0.98,
+Q0346,revisar,5530,5466;5063,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0347,revisar,4703,5207;5208,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.00)"
+Q0348,revisar,5185,5188;5185,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0349,revisar,5069,6734;5070,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.03)"
+Q0350,revisar,4702,5205;5550,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0351,publicar,5116,5221;5116,0.98,
+Q0352,revisar,5570,5571;5559,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0353,revisar,5469,5468;5467,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.00)"
+Q0354,revisar,5218,5226;5221,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.03)"
+Q0355,revisar,4708,5502;6716,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.01)"
+Q0356,revisar,5066,5070;5067,0.44,"Confiança moderada para publicação direta (sim: 0.44, margem: 0.00)"
+Q0357,revisar,5138,5089;5141,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0358,revisar,5133,6734;5184,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.00)"
+Q0359,revisar,5198,5530,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0360,revisar,4389,5198;5487,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0361,revisar,5497,,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.09)"
+Q0362,revisar,5557,,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.10)"
+Q0363,revisar,5091,5087;5088,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.03)"
+Q0364,revisar,5222,,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.06)"
+Q0365,revisar,5088,5185;5204,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0366,revisar,5548,5203;5202,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.02)"
+Q0367,revisar,5530,5528;5536,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0368,revisar,5500,5466;5498,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.02)"
+Q0369,publicar,6723,4702,0.96,
+Q0370,revisar,4690,5480;5477,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0371,revisar,6736,5474;5472,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.03)"
+Q0372,publicar,5555,,0.96,
+Q0373,revisar,5182,5181;5180,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.03)"
+Q0374,publicar,5147,,0.96,
+Q0375,publicar,5224,5214,0.96,
+Q0376,revisar,5225,5222;5218,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.02)"
+Q0377,publicar,5477,5198;5548,0.98,
+Q0378,publicar,5116,5070,0.96,
+Q0379,publicar,4704,6724,0.98,
+Q0380,revisar,5583,5494;5488,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0381,revisar,5502,,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.14)"
+Q0382,revisar,6727,6726;5210,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.00)"
+Q0383,revisar,6723,4702;4686,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.04)"
+Q0384,publicar,5561,,0.96,
+Q0385,revisar,5557,5466,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.09)"
+Q0386,revisar,5487,5198;5480,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0387,revisar,5592,5590;5591,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0388,revisar,5530,5540;5535,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.05)"
+Q0389,revisar,5218,5226;5198,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.02)"
+Q0390,publicar,4376,4376;4375,0.98,
+Q0391,revisar,5502,5466;5063,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.02)"
+Q0392,revisar,4703,5222;4703,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.06)"
+Q0393,fora,,,0.9,Disciplina fora do escopo penal: direito penal militar
+Q0394,revisar,5540,5569;5539,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.07)"
+Q0395,revisar,5542,5476;5478,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.01)"
+Q0396,revisar,5482,5095;5099,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0397,revisar,4688,4689;4687,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0398,revisar,5178,5175;5177,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.03)"
+Q0399,revisar,5198,5548;5230,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0400,revisar,5198,5548;5571,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.03)"
+Q0401,revisar,4703,,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.16)"
+Q0402,revisar,6716,4684;5085,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.06)"
+Q0403,revisar,5182,5181;5180,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.02)"
+Q0404,publicar,5116,5116;5117,0.98,
+Q0405,revisar,5083,5508;5198,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0406,publicar,5091,5087;5099,0.96,
+Q0407,revisar,5578,5572,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.08)"
+Q0408,publicar,5495,,0.96,
+Q0409,revisar,5217,5211;5212,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.00)"
+Q0410,revisar,5213,,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.14)"
+Q0411,revisar,5219,5477;4381,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.03)"
+Q0412,publicar,5096,,0.96,
+Q0413,revisar,5094,5087;5100,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.00)"
+Q0414,revisar,5063,5565;5198,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0415,revisar,5198,5549;5571,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0416,fora,,,0.9,Disciplina fora do escopo penal: direito penal militar
+Q0417,publicar,4376,,0.98,
+Q0418,publicar,4704,,0.98,
+Q0419,publicar,4385,4385;4386,0.98,
+Q0420,publicar,6724,4704,0.96,
+Q0421,revisar,5063,5571;5198,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0422,revisar,5182,5123;5124,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0423,revisar,5221,5142;5185,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0424,fora,,,0.9,Disciplina fora do escopo penal: direito processual penal militar
+Q0425,revisar,5577,5575;5572,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.06)"
+Q0426,revisar,5178,5175;5192,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.06)"
+Q0427,revisar,5494,5548;5220,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.02)"
+Q0428,revisar,5063,5466;5469,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.00)"
+Q0429,revisar,5150,5074;5072,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0430,publicar,4704,6724,0.98,
+Q0431,revisar,5531,5549,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.05)"
+Q0432,revisar,5466,5063;5064,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.03)"
+Q0433,revisar,5074,5212;5073,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0434,revisar,5517,5500;5498,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0435,publicar,4376,4689;5548,0.98,
+Q0436,revisar,4704,4704,0.53,"Confiança moderada para publicação direta (sim: 0.53, margem: 0.04)"
+Q0437,revisar,5181,5182;5180,0.39,"Confiança moderada para publicação direta (sim: 0.39, margem: 0.02)"
+Q0438,revisar,5466,5553;5477,0.11,"Confiança moderada para publicação direta (sim: 0.11, margem: 0.01)"
+Q0439,revisar,5206,5088;5099,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0440,revisar,5500,5498;5499,0.48,"Confiança moderada para publicação direta (sim: 0.48, margem: 0.06)"
+Q0441,revisar,5540,5539;5542,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.01)"
+Q0442,revisar,5501,5471;5468,0.34,"Confiança moderada para publicação direta (sim: 0.34, margem: 0.01)"
+Q0443,revisar,5216,,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.10)"
+Q0444,publicar,5545,,0.96,
+Q0445,revisar,6734,5204;5096,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0446,revisar,5519,5500;5498,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0447,publicar,5185,5188,0.96,
+Q0448,revisar,5575,5577;5574,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.01)"
+Q0449,revisar,5231,,0.33,"Confiança moderada para publicação direta (sim: 0.33, margem: 0.13)"
+Q0450,revisar,5571,5570;5479,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.00)"
+Q0451,revisar,5500,5498;5504,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.02)"
+Q0452,revisar,5500,5501;5498,0.41,"Confiança moderada para publicação direta (sim: 0.41, margem: 0.02)"
+Q0453,revisar,4704,4704,0.54,"Confiança moderada para publicação direta (sim: 0.54, margem: 0.01)"
+Q0454,revisar,5181,5182;5180,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0455,revisar,5550,5561;5535,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0456,revisar,5537,5221;5565,0.12,"Confiança moderada para publicação direta (sim: 0.12, margem: 0.00)"
+Q0457,publicar,5477,5477;5206,0.96,
+Q0458,revisar,5218,5221;5223,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0459,revisar,5206,5070;6736,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0460,revisar,5145,5144;5146,0.39,"Confiança moderada para publicação direta (sim: 0.39, margem: 0.04)"
+Q0461,revisar,6736,5562;5203,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.05)"
+Q0462,revisar,5074,5073;5072,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.02)"
+Q0463,revisar,5198,5548;5565,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0464,publicar,4689,,0.96,
+Q0465,revisar,5466,5198;5088,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.03)"
+Q0466,revisar,5218,5224;5225,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.01)"
+Q0467,fora,,,0.9,Disciplina fora do escopo penal: direito processual penal militar
+Q0468,revisar,5184,,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.12)"
+Q0469,publicar,4376,4376;4375,0.98,
+Q0470,revisar,5205,4703;5201,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.00)"
+Q0471,revisar,5198,5222,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.06)"
+Q0472,revisar,5117,5116;5118,0.44,"Confiança moderada para publicação direta (sim: 0.44, margem: 0.05)"
+Q0473,revisar,5500,5502;5498,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.00)"
+Q0474,publicar,4385,5570;4690,0.98,
+Q0475,revisar,5178,5179;5175,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.01)"
+Q0476,revisar,5548,5526;5524,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0477,revisar,5577,5475;5572,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.05)"
+Q0478,revisar,5480,5485;5482,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0479,fora,,,0.9,Disciplina fora do escopo penal: direito processual penal militar
+Q0480,revisar,5199,5203;5205,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.04)"
+Q0481,revisar,5172,5227;5217,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0482,revisar,5508,5505;5507,0.5,"Confiança moderada para publicação direta (sim: 0.50, margem: 0.04)"
+Q0483,revisar,5178,5175;5177,0.56,"Confiança moderada para publicação direta (sim: 0.56, margem: 0.04)"
+Q0484,revisar,5571,6723;5487,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0485,revisar,5198,5571;5181,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.03)"
+Q0486,publicar,5564,,0.96,
+Q0487,revisar,5571,5192;5548,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.00)"
+Q0488,publicar,5090,,0.96,
+Q0489,revisar,5074,5186;5201,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0490,revisar,5217,5192;5212,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.01)"
+Q0491,revisar,5162,5470;5198,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.01)"
+Q0492,revisar,5067,5074;5066,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.03)"
+Q0493,revisar,5502,,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.13)"
+Q0494,revisar,5498,5501;5503,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.01)"
+Q0495,revisar,5088,5530;5535,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.03)"
+Q0496,revisar,5198,5477;5063,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0497,publicar,5561,,0.96,
+Q0498,revisar,4704,4704;5131,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0499,revisar,5225,5198;5226,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.02)"
+Q0500,revisar,5571,5081;5079,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0501,publicar,6724,4704,0.96,
+Q0502,publicar,5099,,0.96,
+Q0503,publicar,4385,5589;4377,0.96,
+Q0504,revisar,5225,5222;5218,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.00)"
+Q0505,publicar,5096,5092;5093,0.96,
+Q0506,revisar,5182,5181;5180,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.00)"
+Q0507,revisar,5214,5224;5211,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.03)"
+Q0508,revisar,4700,5555;5479,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.05)"
+Q0509,revisar,5500,5498;5499,0.41,"Confiança moderada para publicação direta (sim: 0.41, margem: 0.05)"
+Q0510,revisar,5591,5550;5590,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0511,revisar,5550,5550;5590,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.05)"
+Q0512,revisar,4689,6723;5480,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.06)"
+Q0513,revisar,4688,6717;5471,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.01)"
+Q0514,revisar,4689,5565,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.07)"
+Q0515,publicar,4704,6724,0.98,
+Q0516,revisar,6723,4689;4702,0.32,"Confiança moderada para publicação direta (sim: 0.32, margem: 0.03)"
+Q0517,revisar,5123,5549;5124,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.00)"
+Q0518,publicar,4701,5097;4701,0.96,
+Q0519,revisar,5230,5231;5502,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.05)"
+Q0520,revisar,4694,5198,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0521,publicar,4376,6727;6726,0.98,
+Q0522,revisar,5232,5228;5571,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.03)"
+Q0523,publicar,5502,,0.96,
+Q0524,revisar,5070,5068;5066,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.01)"
+Q0525,revisar,5202,5203;5199,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.05)"
+Q0526,publicar,4385,4385;4386,0.98,
+Q0527,fora,,,0.9,Disciplina fora do escopo penal: direito penal militar
+Q0528,revisar,5182,5181;5180,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.02)"
+Q0529,revisar,5575,5089,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.05)"
+Q0530,revisar,4708,5198;4708,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.02)"
+Q0531,publicar,5501,5198;5466,0.96,
+Q0532,revisar,5121,5120;5159,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.03)"
+Q0533,revisar,5135,5134;5137,0.36,"Confiança moderada para publicação direta (sim: 0.36, margem: 0.04)"
+Q0534,revisar,4376,4377;4376,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.04)"
+Q0535,publicar,4704,4704,0.96,
+Q0536,revisar,5544,5543,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.08)"
+Q0537,revisar,5484,5480,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.07)"
+Q0538,revisar,4703,5228,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.05)"
+Q0539,revisar,5165,5166,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.07)"
+Q0540,revisar,5225,5218;5548,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.02)"
+Q0541,revisar,5096,,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.12)"
+Q0542,revisar,5517,5519;5518,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.04)"
+Q0543,revisar,5570,5571;5565,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0544,revisar,5198,5480;5570,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0545,publicar,4385,4385;4376,0.98,
+Q0546,revisar,5097,6719;6718,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0547,revisar,4689,5185,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.05)"
+Q0548,revisar,5567,5560;5198,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.04)"
+Q0549,revisar,6734,4703,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.09)"
+Q0550,revisar,5165,5164;5161,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.02)"
+Q0551,revisar,5466,5063;5467,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.04)"
+Q0552,revisar,5510,5509;5570,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.04)"
+Q0553,fora,,,0.95,Procedimento de crimes de funcionários públicos não contemplado
+Q0554,revisar,5132,,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.12)"
+Q0555,publicar,4703,4703;5208,0.96,
+Q0556,publicar,4385,4385;4386,0.98,
+Q0557,revisar,5502,5501;5498,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.04)"
+Q0558,revisar,5583,5512;5562,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0559,revisar,5093,5092;5095,0.4,"Confiança moderada para publicação direta (sim: 0.40, margem: 0.03)"
+Q0560,revisar,4704,4704;6725,0.23,"Confiança moderada para publicação direta (sim: 0.23, margem: 0.02)"
+Q0561,publicar,5116,5116;5118,0.98,
+Q0562,revisar,5088,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.11)"
+Q0563,publicar,4385,5482;4377,0.98,
+Q0564,publicar,4385,4385;4386,0.98,
+Q0565,publicar,5501,5498;5501,0.96,
+Q0566,revisar,5096,5087;5098,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.01)"
+Q0567,revisar,5201,,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.12)"
+Q0568,revisar,5225,5227;5181,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.07)"
+Q0569,publicar,4385,4385;5201,0.98,
+Q0570,revisar,5561,,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.12)"
+Q0571,revisar,5550,5484;5550,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0572,revisar,4697,,0.29,"Confiança moderada para publicação direta (sim: 0.29, margem: 0.13)"
+Q0573,revisar,5198,5571;5204,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.02)"
+Q0574,revisar,5194,5550;5548,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0575,revisar,5479,5184;5548,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.02)"
+Q0576,revisar,6721,6720;5225,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.00)"
+Q0577,publicar,4704,6724,0.98,
+Q0578,publicar,6723,4702,0.96,
+Q0579,revisar,5508,5505;5548,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0580,revisar,5198,5565;5219,0.14,"Confiança moderada para publicação direta (sim: 0.14, margem: 0.01)"
+Q0581,revisar,5508,5505;5571,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.04)"
+Q0582,revisar,5550,5198;5571,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0583,revisar,5186,5200;5188,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.04)"
+Q0584,revisar,5185,5198,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.06)"
+Q0585,revisar,5175,5178;5225,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.00)"
+Q0586,revisar,5517,5519;5518,0.28,"Confiança moderada para publicação direta (sim: 0.28, margem: 0.06)"
+Q0587,revisar,5186,5530;5200,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.04)"
+Q0588,publicar,4385,4385;4386,0.98,
+Q0589,revisar,5209,5519;5517,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.03)"
+Q0590,revisar,5228,5232;5230,0.36,"Confiança moderada para publicação direta (sim: 0.36, margem: 0.04)"
+Q0591,publicar,5561,,0.96,
+Q0592,revisar,5156,5088,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.08)"
+Q0593,revisar,5537,5204;5548,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0594,revisar,5531,5530;5537,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.03)"
+Q0595,publicar,5501,5498;5500,0.98,
+Q0596,revisar,5181,5182;5171,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.01)"
+Q0597,revisar,5535,5589;5550,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.02)"
+Q0598,revisar,4385,4388;4369,0.16,"Confiança moderada para publicação direta (sim: 0.16, margem: 0.01)"
+Q0599,fora,,,0.9,Disciplina fora do escopo penal: direito processual penal militar
+Q0600,revisar,5576,5198;5185,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.02)"
+Q0601,revisar,5541,5539;5540,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.02)"
+Q0602,revisar,5472,5063;5466,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0603,publicar,5096,5092,0.96,
+Q0604,revisar,5092,5095;5093,0.45,"Confiança moderada para publicação direta (sim: 0.45, margem: 0.03)"
+Q0605,revisar,5519,5593;5542,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.02)"
+Q0606,revisar,5204,5101,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.05)"
+Q0607,publicar,4385,5548;5215,0.98,
+Q0608,revisar,5181,5182;5180,0.47,"Confiança moderada para publicação direta (sim: 0.47, margem: 0.03)"
+Q0609,revisar,5206,5070;5548,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0610,revisar,4700,5555;5502,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.04)"
+Q0611,publicar,5116,5116;5565,0.98,
+Q0612,revisar,5471,5466;5063,0.37,"Confiança moderada para publicação direta (sim: 0.37, margem: 0.03)"
+Q0613,revisar,5116,5565;5118,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.03)"
+Q0614,revisar,5116,5117;5062,0.19,"Confiança moderada para publicação direta (sim: 0.19, margem: 0.01)"
+Q0615,publicar,5198,,0.96,
+Q0616,revisar,5198,5565;5575,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.03)"
+Q0617,revisar,5500,5498;5503,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.02)"
+Q0618,revisar,5224,,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.12)"
+Q0619,revisar,5540,5539;5530,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.08)"
+Q0620,publicar,5147,,0.96,
+Q0621,revisar,5548,5192;5206,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.00)"
+Q0622,revisar,5182,5181;5180,0.44,"Confiança moderada para publicação direta (sim: 0.44, margem: 0.05)"
+Q0623,revisar,5544,5543;5545,0.25,"Confiança moderada para publicação direta (sim: 0.25, margem: 0.04)"
+Q0624,publicar,6724,4704,0.96,
+Q0625,revisar,5092,5093;5095,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.01)"
+Q0626,revisar,5505,5508;5506,0.35,"Confiança moderada para publicação direta (sim: 0.35, margem: 0.00)"
+Q0627,publicar,5126,5125,0.96,
+Q0628,publicar,5501,5498;5501,0.96,
+Q0629,revisar,4367,4365;4371,0.22,"Confiança moderada para publicação direta (sim: 0.22, margem: 0.04)"
+Q0630,publicar,5084,,0.96,
+Q0631,revisar,5088,5206;5070,0.24,"Confiança moderada para publicação direta (sim: 0.24, margem: 0.01)"
+Q0632,revisar,5092,5093,0.27,"Confiança moderada para publicação direta (sim: 0.27, margem: 0.06)"
+Q0633,revisar,5198,5480;5487,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.00)"
+Q0634,revisar,5487,,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.11)"
+Q0635,revisar,5544,5198;5548,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.03)"
+Q0636,revisar,5482,5571;5480,0.17,"Confiança moderada para publicação direta (sim: 0.17, margem: 0.03)"
+Q0637,revisar,5087,5091;5099,0.42,"Confiança moderada para publicação direta (sim: 0.42, margem: 0.02)"
+Q0638,publicar,5091,5087,0.96,
+Q0639,revisar,5192,5206;5480,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.01)"
+Q0640,publicar,5227,5221;5220,0.96,
+Q0641,publicar,5097,,0.96,
+Q0642,publicar,4704,6724,0.98,
+Q0643,publicar,4385,4374;4388,0.96,
+Q0644,publicar,5183,,0.98,
+Q0645,revisar,5226,5218,0.26,"Confiança moderada para publicação direta (sim: 0.26, margem: 0.02)"
+Q0646,publicar,4385,4385;4371,0.98,
+Q0647,revisar,5487,5198;5548,0.15,"Confiança moderada para publicação direta (sim: 0.15, margem: 0.01)"
+Q0648,revisar,5555,6734;4699,0.13,"Confiança moderada para publicação direta (sim: 0.13, margem: 0.03)"
+Q0649,fora,,,0.9,Disciplina fora do escopo penal: direito penal militar
+Q0650,fora,,,0.9,Disciplina fora do escopo penal: direito penal militar
+Q0651,publicar,4704,6724,0.98,
+Q0652,revisar,4701,5092;5530,0.21,"Confiança moderada para publicação direta (sim: 0.21, margem: 0.04)"
+Q0653,publicar,4704,6724;5519,0.98,
+Q0654,fora,,,0.9,Disciplina fora do escopo penal: direito processual penal militar
+Q0655,revisar,4380,4381;4382,0.18,"Confiança moderada para publicação direta (sim: 0.18, margem: 0.01)"
+Q0656,publicar,4704,6724,0.98,
+Q0657,revisar,6716,4684,0.3,"Confiança moderada para publicação direta (sim: 0.30, margem: 0.09)"
+Q0658,revisar,4389,5143;4375,0.2,"Confiança moderada para publicação direta (sim: 0.20, margem: 0.00)"
+Q0659,revisar,6723,4689;4702,0.31,"Confiança moderada para publicação direta (sim: 0.31, margem: 0.03)"
